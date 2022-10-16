@@ -1,0 +1,9 @@
+c:\users\nanochip\documents\visual studio 2015\Projects\formApplication\formApplication\bin\Debug\formApplication.exe.config
+c:\users\nanochip\documents\visual studio 2015\Projects\formApplication\formApplication\bin\Debug\formApplication.exe
+c:\users\nanochip\documents\visual studio 2015\Projects\formApplication\formApplication\bin\Debug\formApplication.pdb
+c:\users\nanochip\documents\visual studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.csprojResolveAssemblyReference.cache
+c:\users\nanochip\documents\visual studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.frmMain.resources
+c:\users\nanochip\documents\visual studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.Properties.Resources.resources
+c:\users\nanochip\documents\visual studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.csproj.GenerateResource.Cache
+c:\users\nanochip\documents\visual studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.exe
+c:\users\nanochip\documents\visual studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.pdb

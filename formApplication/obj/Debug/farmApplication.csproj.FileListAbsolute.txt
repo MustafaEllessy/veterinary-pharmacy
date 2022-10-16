@@ -1,0 +1,532 @@
+c:\users\nanochip\documents\visual studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.Properties.Resources.resources
+c:\users\nanochip\documents\visual studio 2015\Projects\formApplication\formApplication\obj\Debug\farmApplication.csproj.GenerateResource.Cache
+c:\users\nanochip\documents\visual studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.exe
+c:\users\nanochip\documents\visual studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.pdb
+c:\users\nanochip\documents\visual studio 2015\Projects\formApplication\formApplication\bin\Debug\formApplication.exe.config
+c:\users\nanochip\documents\visual studio 2015\Projects\formApplication\formApplication\bin\Debug\formApplication.exe
+c:\users\nanochip\documents\visual studio 2015\Projects\formApplication\formApplication\bin\Debug\formApplication.pdb
+c:\users\nanochip\documents\visual studio 2015\Projects\formApplication\formApplication\obj\Debug\farmApplication.frmMain.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\farmApplication.csprojResolveAssemblyReference.cache
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\FlashControlV71.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\bin\Debug\stdole.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.FeedFactoryMenu.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.frmTableEggsDisplay.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.Pharmacy.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.EggFarm.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.DisplayEggFarm.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.EggsStore.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.ImportHatchingEggs.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.ExportDrugs.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.DisplayExportDrugs.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.ExportFeeds.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.DisplayExportFeeds.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.FarmsMenu.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.FeedProccess.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.FeedMsg.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.FeedStore.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.HatchingLabMenu.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.SoledHatchingEggs.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.HatchingEggsStore.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.HatchingProcess.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.DisplayHatchingProccess.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.HenFarm.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.DisplayHenFarm.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.ImportDrugs.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.DisplayImportedDrugs.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.ImportEggs.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.DisplayImportedEggs.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.ImportRaws.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.PharmacyMenu.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.ProducedFeed.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.DisplayFeedProcess.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.ImportHatchingEggsForHatchingProcess.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.DisplayImportRaws.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.RawStore.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.Sales.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.DisplaySales.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.DisplaySoledHatchingEggs.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\formApplication\formApplication\obj\Debug\formApplication.TableEggs.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\formApplication.exe.config
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\obj\Debug\formApplication.exe
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\obj\Debug\formApplication.pdb
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\formApplication.exe
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\formApplication.pdb
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\FlashControlV71.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\bin\Debug\stdole.dll
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\obj\Debug\farmApplication.csprojResolveAssemblyReference.cache
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\obj\Debug\formApplication.Pharmacy.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\obj\Debug\formApplication.ExportDrugs.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\obj\Debug\formApplication.DisplayExportDrugs.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\obj\Debug\formApplication.ImportDrugs.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\obj\Debug\formApplication.DisplayImportedDrugs.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\obj\Debug\formApplication.PharmacyMenu.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\obj\Debug\formApplication.Properties.Resources.resources
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\New folder\formApplication\formApplication\obj\Debug\farmApplication.csproj.GenerateResource.Cache
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\formApplication.exe.config
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.exe
+C:\Users\NanoChip\Documents\Visual Studio 2015\Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.pdb
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\formApplication.exe.config
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\formApplication.exe
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\formApplication.pdb
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ShockwaveFlashObjects.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\stdole.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\farmApplication.csproj.AssemblyReference.cache
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\farmApplication.csproj.SuggestedBindingRedirects.cache
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.Pharmacy.resources
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.ExportDrugs.resources
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.DisplayExportDrugs.resources
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.ImportDrugs.resources
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.DisplayImportedDrugs.resources
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.PharmacyMenu.resources
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.Properties.Resources.resources
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\farmApplication.csproj.GenerateResource.cache
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\farmApplication.csproj.CoreCompileInputs.cache
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\farmApplication.csproj.CopyComplete
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.exe
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.pdb
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.Report1.resources
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.Report2.resources
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.Report3.resources
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\EnvDTE.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\EnvDTE80.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\VSLangProj.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\VSLangProj80.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.MSXML.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.Build.Framework.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\VSLangProj2.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\EnvDTE.xml
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\EnvDTE80.xml
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\VSLangProj.xml
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\VSLangProj80.xml
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\VSLangProj2.xml
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.exe.config
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.Reports.resources
+D:\Data\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.closeTool.resources
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\formApplication.exe.config
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.exe
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.pdb
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\formApplication.exe
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\formApplication.pdb
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ShockwaveFlashObjects.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\EnvDTE.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\stdole.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\EnvDTE80.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\VSLangProj.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\VSLangProj80.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.MSXML.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.Build.Framework.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\VSLangProj2.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\EnvDTE.xml
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\EnvDTE80.xml
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\VSLangProj.xml
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\VSLangProj80.xml
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\VSLangProj2.xml
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\farmApplication.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\farmApplication.csproj.formApplication.exe.config
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.Pharmacy.resources
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.ExportDrugs.resources
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.DisplayExportDrugs.resources
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.ImportDrugs.resources
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.DisplayImportedDrugs.resources
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.PharmacyMenu.resources
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.Properties.Resources.resources
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.Report1.resources
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.Report2.resources
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.Report3.resources
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.Reports.resources
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\formApplication.closeTool.resources
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\farmApplication.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\RdlCompile.cache
+D:\Visual Studio Projects\برنامج المزرعة\الصيدلية\formApplication\obj\Debug\RdlCompile.compiled
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\formApplication.exe.config
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\formApplication.exe
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\formApplication.pdb
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\formApplication.exe
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\formApplication.pdb
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\ShockwaveFlashObjects.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\EnvDTE.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\stdole.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\EnvDTE80.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\VSLangProj.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\VSLangProj80.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\Microsoft.MSXML.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\Microsoft.Build.Framework.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\VSLangProj2.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\EnvDTE.xml
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\EnvDTE80.xml
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\VSLangProj.xml
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\VSLangProj80.xml
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\VSLangProj2.xml
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\farmApplication.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\farmApplication.csproj.formApplication.exe.config
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\formApplication.Pharmacy.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\formApplication.ExportDrugs.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\formApplication.DisplayExportDrugs.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\formApplication.ImportDrugs.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\formApplication.DisplayImportedDrugs.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\formApplication.PharmacyMenu.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\formApplication.Properties.Resources.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\formApplication.Report1.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\formApplication.Report2.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\formApplication.Report3.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\formApplication.Reports.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\formApplication.closeTool.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\farmApplication.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\RdlCompile.cache
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\صيدلية\formApplication\obj\Debug\RdlCompile.compiled
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\formApplication.exe.config
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\formApplication.exe
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\formApplication.pdb
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\formApplication.exe.config
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\formApplication.exe
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\formApplication.pdb
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\formApplication.exe
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\formApplication.pdb
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\ShockwaveFlashObjects.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\EnvDTE.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\stdole.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\EnvDTE80.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\VSLangProj.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\VSLangProj80.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\Microsoft.MSXML.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\Microsoft.Build.Framework.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\VSLangProj2.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\EnvDTE.xml
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\EnvDTE80.xml
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\VSLangProj.xml
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\VSLangProj80.xml
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\VSLangProj2.xml
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\farmApplication.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\farmApplication.csproj.formApplication.exe.config
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\formApplication.Pharmacy.resources
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\formApplication.ExportDrugs.resources
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\formApplication.DisplayExportDrugs.resources
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\formApplication.ImportDrugs.resources
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\formApplication.DisplayImportedDrugs.resources
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\formApplication.PharmacyMenu.resources
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\formApplication.Properties.Resources.resources
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\formApplication.Report1.resources
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\formApplication.Report2.resources
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\formApplication.Report3.resources
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\formApplication.Reports.resources
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\formApplication.closeTool.resources
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\farmApplication.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\RdlCompile.cache
+D:\Visual Studio Projects\Farm Applications 19-8-2022\صيدلية\formApplication\obj\Debug\RdlCompile.compiled
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\صيدلية\formApplication\bin\Debug\formApplication.exe.config
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\صيدلية\formApplication\obj\Debug\formApplication.exe
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\صيدلية\formApplication\obj\Debug\formApplication.pdb
